@@ -1,4 +1,4 @@
-# Beep Boop How can I help you?
+# Beep Boop let's get acquainted!
 
 - 👋 Hi, I’m Muhammad Yazid Al Farisy
 - 👋 I’m a Mentee on IBM Advance AI & Infinite Learning
